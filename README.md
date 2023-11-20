@@ -1,4 +1,4 @@
 # my-first-repository
-to do some work in new repository
+To do some work in  my first new repository
 <br>
-auther jyothi
+Author jyothi
